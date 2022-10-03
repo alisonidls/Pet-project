@@ -7,6 +7,8 @@
 5 |  [Психическое здоровье сотрудников](https://github.com/alisonidls/Pet-project/tree/main/Mental-Health-in-Tech-Survey) | IT, медицина | Как частота психических заболеваний и отношение к психическому здоровью зависят от условий жизни и работы? Каковы самые сильные предикторы психических заболеваний или определенного отношения к психическому здоровью на рабочем месте?  |   *seaborn, matplotlib, pandas, plotly* 
 6 |  [Болезни сердца](https://github.com/alisonidls/Pet-project/tree/main/Heart-Failure-Prediction) | Медицина | Выявление самых сильных предикторов заболеваний сердца   |   *seaborn, matplotlib, pandas, plotly, scipy* 
 7 |  [Проведение А/B теста](https://github.com/alisonidls/Pet-project/tree/main/A-B) | Аналитика, маркетинг | Проведение A/B тестирования на синтетических данных. Выдвижение гипотез, объяснение результатов.   |   *pandas, scipy, numpy, bootstrap, seaborn, matplotlib* 
+8 |  [Преобразование сырых данных](https://github.com/alisonidls/Pet-project/tree/main/%D0%92ad-data) | Маркетинг | Преобразование сырых данных в надлежащий вид, согласно ТЗ   |   *pandas, numpy, datetime* 
+
 
 
 
